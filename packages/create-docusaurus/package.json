@@ -28,7 +28,7 @@
     "fs-extra": "^10.1.0",
     "lodash": "^4.17.21",
     "prompts": "^2.4.2",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "shelljs": "^0.8.5",
     "supports-color": "^9.2.2",
     "tslib": "^2.4.0"
